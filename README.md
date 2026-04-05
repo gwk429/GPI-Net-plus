@@ -1,1 +1,1 @@
-# GPI-Net-plus
+# GPI-Net++
